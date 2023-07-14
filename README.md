@@ -1,2 +1,5 @@
-# MVP2-Noticiei-App
-Projeto desenvolvido para o MVP2 da PUC RJ
+# MVP2 - Noticiei App
+
+Projeto de avaliação da segunda sprint do curso de Pós-graduação da PUC-Rio em Engenharia de Software.
+
+Neste projeto, decidi aproveitar a ideia de um produto desenvolvido no priemeiro MVP e investir na criação de uma versão mobile. Isso nos permite aprimorar e expandir a funcionalidade do produto, atendendo às necessidades dos usuários de forma mais conveniente e acessível. Ao migrar para a versão mobile, focamos em melhorar a usabilidade, interface e performance, oferecendo uma experiência fluida e eficiente. Também exploramos recursos específicos de dispositivos móveis, como integração nativa e notificações push. Essa estratégia busca adaptar o produto às demandas de um mundo cada vez mais conectado e móvel, ampliando nosso alcance e proporcionando uma experiência de alta qualidade aos usuários que preferem dispositivos móveis.
